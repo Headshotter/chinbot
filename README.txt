@@ -1,4 +1,4 @@
-This is chinbot.
+This is chinbot. 
 This is the rewrite of the previous chinbot which was pure [jenni](https://github.com/myano/jenni/wiki) but kept on crashing so its kind of mostly based on [phenny](https://github.com/sbp/phenny) now .
 
 Instructions

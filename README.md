@@ -4,8 +4,11 @@ This is the rewrite of the previous chinbot which was pure [jenni](https://githu
 Instructions
 
 1) Run ./phenny - this creates a default config file
+
 2) Edit ~/.phenny/default.py
+
 3) Run ./phenny - this now runs phenny with your settings
+
 
 Enjoy!
 
